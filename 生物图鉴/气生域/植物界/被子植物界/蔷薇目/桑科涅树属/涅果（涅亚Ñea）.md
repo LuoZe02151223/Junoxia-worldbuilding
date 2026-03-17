@@ -41,7 +41,7 @@
 
 ## 出处
 
-**[第三章](https://github.com/LuoZe02151223/Junoxia-worldbuilding/blob/main/正文/深谷篇/P1_童年_Childhood/03%20第三章.md)**
+**[第三章](https://github.com/LuoZe02151223/Junoxia-worldbuilding/blob/main/正文/深谷篇/P1_童年_Childhood/03_第三章.md)**
 
 > 待到火重新旺起来，他便把一枚果实埋进晶块和余烬之间，又用短刃拨了拨，确认它陷得足够深。果子呈椭圆形，表皮粗糙，黄绿相间，看起来比拳头大许多。
 >
