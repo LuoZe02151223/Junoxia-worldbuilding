@@ -1,11 +1,9 @@
-# Junoxia-worldbuilding
-
 # 朱诺希亚｜Junoxia Worldbuilding
 
-> 一颗气态巨行星上的悬浮大陆，一部基于自然与“第二自然”出发的的世界观企划。  
-> 这里收录《朱诺希亚》相关的正文、设定、图鉴、印象板与支线材料。
+一颗气态巨行星上的悬浮大陆，一部基于自然与“第二自然”出发的的世界观企划。  
+这里收录《朱诺希亚》相关的正文、设定、图鉴、印象板与支线材料。
 
-> p站主页：https://www.pixiv.net/users/46134997
+我的 [Pixiv 主页](https://www.pixiv.net/users/46134997)。
 
 ---
 
@@ -70,4 +68,3 @@ Junoxia-worldbuilding/
 ├─ 生物图鉴/
 │  └─ 气生域              # 生物与生态设定
 └─ README.md              # 仓库首页
-
