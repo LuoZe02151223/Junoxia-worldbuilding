@@ -5,6 +5,8 @@
 
 我的 [Pixiv 主页](https://www.pixiv.net/users/46134997)。
 
+交流群QQ：1075464103
+
 ---
 
 ## 项目简介
