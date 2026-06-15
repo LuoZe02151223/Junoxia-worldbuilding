@@ -66,10 +66,10 @@
 
 ```text
 Junoxia-worldbuilding/
-├─ assets                  # 附图、封面、素材等资源
+├─ assets                  # 图片、论文、许可等统一资源
 ├─ 世设                    # 世界观基础设定
 ├─ 别传与前作              # 支线故事、前作或外传材料
-├─ 印象板                  # 氛围板、参考图、视觉方向
+├─ 印象板                  # 氛围板文字、视觉方向与素材索引
 ├─ 正文
 │  └─ 深谷篇              # 主线正文的一部分
 ├─ 生物图鉴
@@ -77,11 +77,17 @@ Junoxia-worldbuilding/
 └─ README.md              # 仓库首页
 ```
 
+## 资源调用约定
+
+- Markdown 调用仓库内图片时优先使用相对路径，并使用 `/` 作为路径分隔符。
+- 图片统一收在 `assets/images`；`印象板` 目录保留文字说明和入口索引。
+- 避免使用 GitHub `blob/main` 图片地址，本地预览和分支浏览会更稳定。
+
 ---
 
 ## CC协议
 
-<img title="" src="./assets/CC%20license/cc.svg.png" alt="cc.svg.png" width="232">
+![CC BY-NC-ND](./assets/images/license/cc.svg.png)
 
 **您可以自由地：**
 

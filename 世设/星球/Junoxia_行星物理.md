@@ -84,4 +84,4 @@
 - 气井内气流湿度极高，深层大气富水
 - 悬浮大陆下方空气因对流受阻而局部升温
 
-![全境地形图](http://github.com/LuoZe02151223/Junoxia-worldbuilding/blob/main/assets/images/地图/全境地形图.png)
+![全境地形图](../../assets/images/地图/全境地形图.png)
