@@ -77,12 +77,6 @@ Junoxia-worldbuilding/
 └─ README.md              # 仓库首页
 ```
 
-## 资源调用约定
-
-- Markdown 调用仓库内图片时优先使用相对路径，并使用 `/` 作为路径分隔符。
-- 图片统一收在 `assets/images`；`印象板` 目录保留文字说明和入口索引。
-- 避免使用 GitHub `blob/main` 图片地址，本地预览和分支浏览会更稳定。
-
 ---
 
 ## CC协议
